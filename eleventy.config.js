@@ -13,5 +13,5 @@ module.exports = function (eleventyConfig) {
     }
     return groups;
   });
-  return { dir: { input: "src", output: "_site", includes: "_includes" } };
+  return { pathPrefix: "/ibm-ai-product-manager/", dir: { input: "src", output: "_site", includes: "_includes" } };
 };

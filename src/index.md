@@ -10,7 +10,7 @@ Nhật ký học chương trình IBM AI Product Manager trên Coursera (10 khoá
 <h2>{{ g.course }} · {{ g.module }}</h2>
 <ul>
 {%- for post in g.posts %}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor %}
 </ul>
 {% endfor %}

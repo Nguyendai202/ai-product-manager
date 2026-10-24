@@ -4,10 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title }} | Ghi chú IBM AI Product Manager</title>
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="{{ '/style.css' | url }}">
 </head>
 <body>
-  <header><a href="/">Ghi chú IBM AI Product Manager</a></header>
+  <header><a href="{{ '/' | url }}">Ghi chú IBM AI Product Manager</a></header>
   <main>
     <h1>{{ title }}</h1>
     {% if course %}<p class="meta">{{ course }} · {{ module }}</p>{% endif %}
