@@ -45,7 +45,7 @@ Nếu bạn là lập trình viên muốn chuyển sang PM, module 1 và 3 giúp
 
 **Lưu ý riêng cho lộ trình của mình**
 
-Video mô tả chương trình 6 khoá, còn gói mình đang học trên Coursera là AI Product Manager gồm 10 khoá, thêm phần AI và Generative AI. Cấu trúc khoá khác chút nhưng khoá 1 vẫn là nền tảng chung.
+Video mô tả chương trình 6 khoá, còn gói mình đang học là AI Product Manager gồm 10 khoá, thêm phần AI và Generative AI. Cấu trúc khoá khác chút nhưng khoá 1 vẫn là nền tảng chung.
 
 **Tự kiểm tra**
 

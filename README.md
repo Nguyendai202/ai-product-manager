@@ -1,6 +1,6 @@
 # ai-product-manager
 
-Ghi chú học chương trình AI Product Manager (Coursera), viết bằng Eleventy và đăng lên GitHub Pages.
+Ghi chú học chương trình AI Product Manager, viết bằng Eleventy và đăng lên GitHub Pages.
 
 ```bash
 npm install && npm run serve
