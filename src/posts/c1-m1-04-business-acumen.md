@@ -33,6 +33,24 @@ Một ví dụ khác: quy định mới ra đời khiến một tính năng ph�
 
 ---
 
-## Còn thiếu ở module 1
+## Video 2: Góc nhìn chuyên gia về business acumen
 
-Video "Expert Viewpoints" về business acumen, bài đọc kiểm kê kỹ năng PM, bài đọc tóm tắt và bảng thuật ngữ cuối module chưa được ghi.
+**Ý chính**
+
+- Business acumen ở mức thực tế là **hiểu nhu cầu của doanh nghiệp và việc nào cần ưu tiên để đáp ứng nhu cầu đó**. Khi ngồi cùng lãnh đạo nói bằng thuật ngữ chiến lược, tài chính, marketing, PM phải hiểu và **dịch** thành sản phẩm kỹ thuật.
+- Hiểu ngành và khách hàng: làm việc với cơ quan nhà nước khác với doanh nghiệp nhỏ, khác với tổ chức tài chính. Biết khác biệt văn hoá, chính sách, tập quán theo vùng.
+- Hiểu tổ chức: sứ mệnh, tầm nhìn, **danh mục (portfolio)** các sáng kiến chiến lược cần đạt. Một chuyên gia nhắc đến tiêu chí **SMART** (cụ thể, đo được, khả thi, liên quan, đúng hạn), trong đó "liên quan" là quan trọng nhất với business acumen.
+- Hiểu sản phẩm và thị trường: yêu cầu chức năng và phi chức năng, bức tranh cạnh tranh, xu hướng thị trường, cách định giá (cài tại chỗ so với SaaS).
+- **Product instinct** (trực giác sản phẩm): cảm nhận được điều gì khách thấy giá trị và sẵn sàng trả tiền.
+- Kỹ năng kinh doanh được nhắc: **định giá và cấp phép, lập kế hoạch chiến lược (roadmap ngắn và dài hạn), phân tích đối thủ**, đọc báo cáo và dữ liệu (nghiên cứu người dùng định tính và định lượng, KPI, tài liệu tài chính), hiểu mô hình kinh doanh từ đầu đến cuối, nhận diện stakeholder then chốt.
+- Lời khuyên: học một chút tài chính, biết tính IRR, NPV, ROI, payback. Đồng cảm với khách, hỏi "vì sao" thay vì chỉ ghi lại yêu cầu.
+
+**Ví dụ (tự đặt)**
+
+Lãnh đạo nói "quý này ưu tiên giữ chân khách hiện tại". PM dịch thành backlog: giảm lỗi ở tính năng khách dùng nhiều nhất, thêm cảnh báo trước khi gia hạn, đo tỷ lệ gia hạn làm KPI. Cả ba việc đều xuất phát từ câu nói chiến lược.
+
+**Tự kiểm tra**
+
+- "Dịch" ngôn ngữ kinh doanh thành sản phẩm kỹ thuật nghĩa là làm gì?
+- Vì sao hiểu ngành khách hàng đang phục vụ lại ảnh hưởng đến thiết kế sản phẩm?
+- Hãy viết lại một mục tiêu thành mục tiêu SMART.
