@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | Ghi chú IBM AI Product Manager</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header><a href="/">Ghi chú IBM AI Product Manager</a></header>
+  <main>
+    <h1>{{ title }}</h1>
+    {% if course %}<p class="meta">{{ course }} · {{ module }}</p>{% endif %}
+    {{ content | safe }}
+  </main>
+  <footer>Ghi chú học tập cá nhân, diễn đạt lại bằng lời của mình. Nội dung khoá học thuộc IBM và Coursera; xem bản gốc tại <a href="https://www.coursera.org/professional-certificates/ibm-ai-product-manager">Coursera</a>.</footer>
+</body>
+</html>
