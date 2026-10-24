@@ -1,9 +1,9 @@
 ---
 layout: layout.njk
-title: Ghi chú IBM AI Product Manager
+title: Ghi chú AI Product Manager
 ---
 
-Nhật ký học chương trình IBM AI Product Manager trên Coursera (10 khoá). Mỗi video có phần ý chính, ví dụ và câu hỏi tự kiểm tra để ôn lại nhanh. Sau khi học xong, ghi chú được gói thành skill cho Claude dùng trong dự án thực tế.
+Nhật ký học chương trình AI Product Manager trên Coursera (10 khoá). Mỗi video có phần ý chính, ví dụ và câu hỏi tự kiểm tra để ôn lại nhanh. Sau khi học xong, ghi chú được gói thành skill cho Claude dùng trong dự án thực tế.
 
 {% assign groups = collections.posts | groupByModule %}
 {% for g in groups %}
