@@ -9,7 +9,7 @@ order: 10101
 
 **Ý chính**
 
-- Đây là khoá đầu tiên của chương trình IBM Product Management, dành cho người muốn làm product manager (PM) hoặc chỉ muốn hiểu nghề. Không cần bằng cấp hay kinh nghiệm trước.
+- Đây là khoá đầu tiên của chương trình Product Management, dành cho người muốn làm product manager (PM) hoặc chỉ muốn hiểu nghề. Không cần bằng cấp hay kinh nghiệm trước.
 - Khoá kéo dài 5 tuần, mỗi module một chủ đề:
   1. Nghề PM: vai trò, kỹ năng, hiểu biết kinh doanh.
   2. Vòng đời sản phẩm và vòng đời quản lý sản phẩm.
@@ -28,7 +28,7 @@ Nếu bạn là lập trình viên muốn chuyển sang PM, module 1 và 3 giúp
 
 ---
 
-## Video 2: Giới thiệu chương trình IBM Product Management Professional Certificate
+## Video 2: Giới thiệu chương trình Product Management Professional Certificate
 
 **Ý chính**
 
@@ -41,11 +41,11 @@ Nếu bạn là lập trình viên muốn chuyển sang PM, module 1 và 3 giúp
   4. Phát triển và đưa sản phẩm mới ra thị trường.
   5. Agile và Scrum.
   6. Khoá tổng kết: lời khuyên nghề nghiệp, phỏng vấn, dự án cuối khoá có chấm chéo và đề thi thử.
-- Hoàn thành tất cả thì nhận chứng chỉ IBM và có bộ dự án để đưa vào portfolio.
+- Hoàn thành tất cả thì nhận chứng chỉ của chương trình và có bộ dự án để đưa vào portfolio.
 
 **Lưu ý riêng cho lộ trình của mình**
 
-Video mô tả chương trình 6 khoá, còn gói mình đang học trên Coursera là IBM AI Product Manager gồm 10 khoá, thêm phần AI và Generative AI. Cấu trúc khoá khác chút nhưng khoá 1 vẫn là nền tảng chung.
+Video mô tả chương trình 6 khoá, còn gói mình đang học trên Coursera là AI Product Manager gồm 10 khoá, thêm phần AI và Generative AI. Cấu trúc khoá khác chút nhưng khoá 1 vẫn là nền tảng chung.
 
 **Tự kiểm tra**
 
