@@ -24,9 +24,9 @@ order: 820102
 
 | Công cụ | Chức năng |
 | --- | --- |
-| **Phòng thử prompt (Prompt Lab)** | Thử nghiệm mô hình nền, xây và tinh chỉnh prompt để phục vụ nhiều tác vụ NLP: hỏi đáp, sinh nội dung, tóm tắt, phân loại và trích xuất văn bản |
-| **Phòng tinh chỉnh (Tuning Studio)** | Tuỳ biến mô hình theo dữ liệu và use case của bạn; đưa tập dữ liệu vào, tinh chỉnh mô hình **chỉ với khoảng 100 ví dụ** (theo video); có các phương pháp tinh chỉnh prompt và tinh chỉnh mô hình |
-| **Công cụ đường ống (Pipeline)** | Tự động hoá các bước: nạp dữ liệu, huấn luyện, triển khai, đánh giá mô hình. Rút ngắn thời gian đưa mô hình vào vận hành và tăng độ chính xác, độ tin cậy |
+| **Phòng thử prompt** | Thử nghiệm mô hình nền, xây và tinh chỉnh prompt để phục vụ nhiều tác vụ NLP: hỏi đáp, sinh nội dung, tóm tắt, phân loại và trích xuất văn bản |
+| **Phòng tinh chỉnh** | Tuỳ biến mô hình theo dữ liệu và use case của bạn; đưa tập dữ liệu vào, tinh chỉnh mô hình **chỉ với khoảng 100 ví dụ** (theo video); có các phương pháp tinh chỉnh prompt và tinh chỉnh mô hình |
+| **Công cụ đường ống (pipeline)** | Tự động hoá các bước: nạp dữ liệu, huấn luyện, triển khai, đánh giá mô hình. Rút ngắn thời gian đưa mô hình vào vận hành và tăng độ chính xác, độ tin cậy |
 
 - Thông điệp: trước đây mô hình phải huấn luyện cho **một tác vụ rất cụ thể;** nay nhờ mô hình nền có thể xây ứng dụng mạnh nhanh hơn với ít dữ liệu hơn. Môi trường cộng tác giúp đơn giản hoá quy trình suốt vòng đời AI.
 - **Bảo mật:** dữ liệu và mô hình bạn tạo chỉ truy cập được bởi bạn; dữ liệu lưu dạng mã hoá; mô hình riêng của tài khoản; nhà cung cấp không được dùng nếu không có sự cho phép của bạn.
@@ -44,7 +44,7 @@ order: 820102
 **Tự kiểm tra**
 
 - Vì sao doanh nghiệp cần cả lớp dữ liệu, lớp mô hình và lớp quản trị chứ không chỉ một mô hình tốt?
-- Công ty bạn có thể thử Prompt Lab-kiểu công cụ trước, tinh chỉnh sau; vì sao đó là thứ tự hợp lý (tự đặt)?
+- Công ty bạn có thể thử công cụ kiểu phòng thử prompt trước, tinh chỉnh sau; vì sao đó là thứ tự hợp lý (tự đặt)?
 
 ---
 
@@ -72,7 +72,7 @@ order: 820102
 
 - Nền tảng mở có vai trò lớn trong **phát triển, triển khai và áp dụng** AI sinh nội dung nhờ cách tiếp cận **do cộng đồng dẫn dắt.** Khung cho phép mọi người truy cập kho mô hình ngôn ngữ lớn huấn luyện trước, **không cần nhiều thời gian hay sức tính toán,** rồi tinh chỉnh trên tập dữ liệu riêng cho use case riêng.
 - Có nhiều tài liệu học tập; có nhiều **tuỳ chọn triển khai,** tích hợp với nền tảng đám mây và API phổ biến.
-- Thư viện mã nguồn mở đơn giản hoá việc dùng mô hình phức tạp, giúp nhà phát triển đưa năng lực AI nâng cao vào ứng dụng dễ dàng. **Kho mô hình (Model Hub)** để dùng mô hình và tập dữ liệu huấn luyện trước, thúc đẩy cộng tác và đổi mới.
+- Thư viện mã nguồn mở đơn giản hoá việc dùng mô hình phức tạp, giúp nhà phát triển đưa năng lực AI nâng cao vào ứng dụng dễ dàng. **Kho mô hình dùng chung** để dùng mô hình và tập dữ liệu huấn luyện trước, thúc đẩy cộng tác và đổi mới.
 - **Lợi thế lớn nhất là cộng đồng:** nhiều mô hình nền cho nhiều tác vụ như nhận diện khuôn mặt, phát hiện vật thể. Các mô hình AI sinh nội dung dựa vào những mô hình huấn luyện trước và đoạn mã đó; bản thân một mô hình ngôn ngữ lớn không tự làm được mọi tác vụ.
 - **Lợi ích khi tham gia cộng đồng:** truy cập nhiều tài nguyên và chuyên môn; chia sẻ kiến thức, học hỏi nhau, cập nhật tiến bộ mới; giao diện thân thiện và tài liệu đầy đủ giúp cả người mới lẫn chuyên gia thử nghiệm và triển khai nhanh hơn, rút ngắn thời gian phát triển. Ai bị kẹt thì thường có sẵn nhiều lời giải từ cộng đồng.
 - Kết luận: AI sinh nội dung hưởng lợi rõ rệt nhờ các mô hình huấn luyện trước tốt và cộng đồng này, nhất là trong ứng dụng khoa học dữ liệu.
